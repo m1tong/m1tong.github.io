@@ -1,4 +1,17 @@
-# Data Scientist
+## About
+Hi I'm Michelle Tong! I'm currently a fourth-year student at UCSD, diving into the exciting worlds of Data Science and Management Science.
+
+When I'm not buried in academics, you'll find me grooving to dance beats, solving puzzles, belting out tunes, whipping up some delicious baked goods, immersing myself in games, and getting lost in the world of art. My interests are as varied as they come, reflecting my insatiable curiosity that keeps me on my toes.
+
+I possess a natural intellectual curiosity and a deep desire to continuously expand my knowledge. I am happy to learn about anything you have to share. I am happy to talk about my expertise if you want help. Feel free to connect with me and chat.
+
+An Advocate (INFJ-A) by nature, my personality underscores my empathetic and insightful disposition, allowing me to approach every interaction with a genuine understanding of the human experience. Let's connect and embark on a journey of shared insights and discoveries.
+
+## Contact
+Email: michelletong8664@gmail.com
+Instagram: mimi_chelle_tong
+Linkedin: https://www.linkedin.com/in/michelle-tong-m1tong/
+
 
 ## Education						       		
 - B.S., Data Science, B.S., Management Science | University of California | _March 2024_		        		
