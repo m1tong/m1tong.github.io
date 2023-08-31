@@ -4,20 +4,16 @@
 - B.S., Data Science, B.S., Management Science | University of California | _March 2024_		        		
 
 ## Technical Skills
-**Programming**
-- Java, Python3, SQL, Git, R, Stata, MATLAB, JavaScript, HTML/CSS
-  
-**Tech Skills**
-  - Machine Learning, Data Cleaning & Manipulation, Statistical Modeling & Inference, Supervised and unsupervised learning, Decision Tree
-
-**Analytic Tools & Software**
-- Git, Jupyter Notebook, AWS, Microsoft Office
-  
-**Data Visualization** 
-- Excel, Google Sheet, Tableau, Matplotlib, Seaborn, Canva
-
-**Languages**
-- Mandarin, Cantonese, English
+#### Programming
+Java, Python3, SQL, Git, R, Stata, MATLAB, JavaScript, HTML/CSS
+#### Tech Skills
+Machine Learning, Data Cleaning & Manipulation, Statistical Modeling & Inference, Supervised and unsupervised learning, Decision Tree
+#### Analytic Tools & Software
+Git, Jupyter Notebook, AWS, Microsoft Office
+#### Data Visualization
+Excel, Google Sheet, Tableau, Matplotlib, Seaborn, Canva
+#### Languages
+Mandarin, Cantonese, English
 
 
 ## Work Experience
