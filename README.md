@@ -8,9 +8,9 @@ I possess a natural intellectual curiosity and a deep desire to continuously exp
 An Advocate (INFJ-A) by nature, my personality underscores my empathetic and insightful disposition, allowing me to approach every interaction with a genuine understanding of the human experience. Let's connect and embark on a journey of shared insights and discoveries.
 
 ## Contact
-Email: michelletong8664@gmail.com
-Instagram: mimi_chelle_tong
-Linkedin: https://www.linkedin.com/in/michelle-tong-m1tong/
+- Email: michelletong8664@gmail.com
+- Instagram: mimi_chelle_tong
+- Linkedin: https://www.linkedin.com/in/michelle-tong-m1tong/
 
 
 ## Education						       		
