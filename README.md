@@ -71,8 +71,6 @@ Golden Key Chinese School | _September 2018 - January 2021_
 ## Projects
 ### Movie Industry in Pandemic 
 
-[Publication](link)
-
 Undertook an extensive analysis of the movie industry during the pandemic, utilizing data from Kaggle. Employed **Excel** and **Python** to preprocess and refine the dataset. Executed exploratory data analysis to uncover correlations between movie revenue and Covid-19 cases as well as vaccination rates.
 
 Developed and optimized multiple machine learning models, including decision trees and random forests, for the purpose of revenue prediction. Rigorously assessed model performance using key metrics like accuracy, precision, recall, and F1-score. Selected the most effective model based on these evaluations, positioning it for potential deployment.
@@ -81,7 +79,6 @@ This project underscores my adeptness in data preprocessing, exploratory analysi
 
 
 ### What Happens to Our Electricity?
-[Publication](link)
 
 Conducted an in-depth investigation into electricity patterns with a focus on power outages in the United States. Sourced data from Kaggle and orchestrated a comprehensive analysis to discern outage patterns and underlying trends.
 
@@ -92,7 +89,6 @@ Employed regression analysis and machine learning algorithms to construct a pred
 This project showcases my proficiency in data exploration, predictive modeling, and machine learning. The ability to uncover insights from vast datasets and predict power outage causes highlights my analytical skills and their practical application in real-world scenarios.
 
 ### Survival on the Titanic: Predicting Passenger Survival
-[Publication](link)
 
 This odyssey of exploration illuminated profound revelations. Through immersive exploratory data analysis, I unraveled the tapestry of patterns and connections hidden within the data. This revealed a profound nexus between passenger class, age, fare prices, and survival prospects. Building upon this foundation, I engineered a robust classification model, harnessing the potency of random forest trees to predict survival outcomes founded on individual attributes. As the data metamorphosed into visual narratives—encompassing histograms, scatter plots, and decision tree diagrams—the veil was lifted not only on the findings but also on the art of translating complex results into accessible insights for stakeholders. This project stands as a testament to my data-driven prowess and ability to distill intricate findings into comprehensible narratives.
 
