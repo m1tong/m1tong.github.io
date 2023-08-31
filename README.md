@@ -10,7 +10,7 @@ An Advocate (INFJ-A) by nature, my personality underscores my empathetic and ins
 ## Contact
 - Email: michelletong8664@gmail.com
 - Instagram: mimi_chelle_tong
-- Linkedin: https://www.linkedin.com/in/michelle-tong-m1tong/
+- Linkedin: [here](https://www.linkedin.com/in/michelle-tong-m1tong/)
 
 
 ## Education						       		
