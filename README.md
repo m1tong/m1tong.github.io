@@ -81,7 +81,7 @@ This project underscores my adeptness in data preprocessing, exploratory analysi
 
 
 ### What Happens to Our Electricity?
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+[Publication](link)
 
 Conducted an in-depth investigation into electricity patterns with a focus on power outages in the United States. Sourced data from Kaggle and orchestrated a comprehensive analysis to discern outage patterns and underlying trends.
 
@@ -92,6 +92,7 @@ Employed regression analysis and machine learning algorithms to construct a pred
 This project showcases my proficiency in data exploration, predictive modeling, and machine learning. The ability to uncover insights from vast datasets and predict power outage causes highlights my analytical skills and their practical application in real-world scenarios.
 
 ### Survival on the Titanic: Predicting Passenger Survival
+[Publication](link)
 
 This odyssey of exploration illuminated profound revelations. Through immersive exploratory data analysis, I unraveled the tapestry of patterns and connections hidden within the data. This revealed a profound nexus between passenger class, age, fare prices, and survival prospects. Building upon this foundation, I engineered a robust classification model, harnessing the potency of random forest trees to predict survival outcomes founded on individual attributes. As the data metamorphosed into visual narratives—encompassing histograms, scatter plots, and decision tree diagrams—the veil was lifted not only on the findings but also on the art of translating complex results into accessible insights for stakeholders. This project stands as a testament to my data-driven prowess and ability to distill intricate findings into comprehensible narratives.
 
