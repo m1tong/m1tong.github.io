@@ -88,6 +88,7 @@ This project underscores my adeptness in data preprocessing, exploratory analysi
 
 
 ### What Happens to Our Electricity?
+[Website Here](https://m1tong.github.io/Power_Outage)
 
 Conducted an in-depth investigation into electricity patterns with a focus on power outages in the United States. Sourced data from Kaggle and orchestrated a comprehensive analysis to discern outage patterns and underlying trends.
 
