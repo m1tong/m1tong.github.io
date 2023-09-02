@@ -14,7 +14,7 @@ An Advocate (INFJ-A) by nature, my personality underscores my empathetic and ins
 
 
 ## Education						       		
-- B.S., Data Science, B.S., Management Science | University of California | _March 2024_		        		
+- B.S., Data Science,   B.S., Management Science | University of California | _March 2024_		        		
 
 ## Technical Skills
 #### Programming
